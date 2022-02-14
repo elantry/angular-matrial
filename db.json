@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Appel",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "this is fresh apple",
+      "date": "2022-02-04T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 30,
+      "comment": "this is not fresh",
+      "date": "2022-02-15T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "TOMATo",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "very ggod quality",
+      "date": "2022-02-22T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "T.V",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 1000,
+      "comment": "it is a good t.v",
+      "date": "2022-02-15T22:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
